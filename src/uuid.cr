@@ -1,4 +1,5 @@
 require "random"
+require "./uuid/*"
 
 module UUID
 

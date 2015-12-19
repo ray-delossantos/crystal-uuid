@@ -1,6 +1,6 @@
 require "./spec_helper"
 
-describe Crystal::Uuid do
+describe UUID do
   # TODO: Write tests
 
   it "works" do

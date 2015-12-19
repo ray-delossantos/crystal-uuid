@@ -9,14 +9,14 @@ Add this to your application's `shard.yml`:
 
 ```yaml
 dependencies:
-  crystal-uuid:
+  uuid:
     github: qio-io/crystal-uuid
 ```
 
 ## Usage
 
 ```crystal
-require "crystal-uuid"
+require "uuid"
 
 puts UUID.generate
 puts UUID.generate_simple

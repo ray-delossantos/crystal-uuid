@@ -10,7 +10,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   uuid:
-    github: qio-io/crystal-uuid
+    github: raydf/crystal-uuid
 ```
 
 ## Usage
@@ -27,7 +27,7 @@ Just call UUID.generate_simple or UUID.generate. This library is pseudo uuid, in
 
 ## Contributing
 
-1. Fork it ( https://github.com/qio-io/crystal-uuid/fork )
+1. Fork it ( https://github.com/raydf/crystal-uuid/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)

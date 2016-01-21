@@ -35,4 +35,4 @@ Just call UUID.generate_simple or UUID.generate. This library is pseudo uuid, in
 
 ## Contributors
 
-- [[qio-io]](https://github.com/qio-io)  - creator
+- [[raydf]](https://github.com/raydf)  - creator

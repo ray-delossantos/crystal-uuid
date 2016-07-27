@@ -1,3 +1,7 @@
+# deprecated
+
+Use SecureRandom.uuid in Std Lib.
+
 # crystal-uuid
 
 Simple translation of Robert Kieffer javascript file
